@@ -89,6 +89,7 @@ let words = [
   { en: 'sick', rus: 'больной' },
   { en: 'groceries', rus: 'продукты' },
   { en: 'far', rus: 'далеко' },
+  { en: 'handler', rus: 'обработчик' },
 ]
 
 function randomInteger(min, max) {
